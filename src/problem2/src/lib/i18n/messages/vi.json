@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Hoán Đổi Tiền Tệ",
+    "subtitle": "Hoán đổi tài sản crypto ngay lập tức"
+  },
+  "swap": {
+    "title": "Hoán Đổi Token",
+    "fromLabel": "Từ",
+    "toLabel": "Đến",
+    "amountLabel": "Số Lượng",
+    "amountFromLabel": "Số lượng đổi",
+    "amountToLabel": "Số lượng nhận",
+    "amountPlaceholder": "0.00",
+    "selectToken": "Chọn Token",
+    "balance": "Số Dư",
+    "rate": "Tỷ Giá",
+    "submitButton": "Hoán Đổi Ngay",
+    "submitting": "Đang hoán đổi...",
+    "swapSuccess": "Thành công!",
+    "swapTokensButton": "Đổi Token",
+    "priceImpact": "Ảnh Hưởng Giá",
+    "estimatedGas": "Gas Ước Tính",
+    "minReceived": "Nhận Tối Thiểu",
+    "searchTokens": "Tìm token..."
+  },
+  "validation": {
+    "required": "Trường này là bắt buộc",
+    "invalidAmount": "Vui lòng nhập số lượng hợp lệ",
+    "minAmount": "Số lượng phải lớn hơn 0",
+    "sameToken": "Không thể hoán đổi cùng một token",
+    "selectToken": "Vui lòng chọn token",
+    "insufficientBalance": "Số dư không đủ"
+  },
+  "errors": {
+    "fetchTokens": "Không thể tải token. Vui lòng thử lại.",
+    "swapFailed": "Hoán đổi thất bại. Vui lòng thử lại.",
+    "networkError": "Lỗi mạng. Vui lòng kiểm tra kết nối.",
+    "retry": "Thử Lại",
+    "themeProvider": "useTheme phải được sử dụng trong ThemeProvider",
+    "invalidTheme": "Giá trị theme không hợp lệ. Vui lòng sử dụng 'light' hoặc 'dark'",
+    "themeStorageError": "Không thể lưu tùy chọn theme"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "loadingTokens": "Đang tải danh sách token...",
+    "close": "Đóng",
+    "confirm": "Xác Nhận",
+    "cancel": "Hủy",
+    "reset": "Đặt Lại",
+    "noResults": "Không tìm thấy token"
+  },
+  "language": {
+    "en": "English",
+    "vi": "Tiếng Việt"
+  },
+  "exchangeRateInfo": {
+    "rate": "Tỷ Giá",
+    "priceImpact": "Ảnh Hưởng Giá",
+    "estimatedGas": "Gas Ước Tính"
+  },
+  "theme": {
+    "switchToLight": "Chuyển sang chế độ sáng",
+    "switchToDark": "Chuyển sang chế độ tối"
+  }
+}
+

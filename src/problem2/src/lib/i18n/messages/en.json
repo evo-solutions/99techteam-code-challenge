@@ -1,0 +1,66 @@
+{
+  "app": {
+    "title": "Currency Swap",
+    "subtitle": "Swap your crypto assets instantly"
+  },
+  "swap": {
+    "title": "Swap Tokens",
+    "fromLabel": "From",
+    "toLabel": "To",
+    "amountLabel": "Amount",
+    "amountFromLabel": "Amount to swap",
+    "amountToLabel": "Amount to receive",
+    "amountPlaceholder": "0.00",
+    "selectToken": "Select Token",
+    "balance": "Balance",
+    "rate": "Rate",
+    "submitButton": "Swap Now",
+    "submitting": "Swapping...",
+    "swapSuccess": "Success!",
+    "swapTokensButton": "Swap Tokens",
+    "priceImpact": "Price Impact",
+    "estimatedGas": "Estimated Gas",
+    "minReceived": "Minimum Received",
+    "searchTokens": "Search tokens..."
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidAmount": "Please enter a valid amount",
+    "minAmount": "Amount must be greater than 0",
+    "sameToken": "Cannot swap the same token",
+    "selectToken": "Please select a token",
+    "insufficientBalance": "Insufficient balance"
+  },
+  "errors": {
+    "fetchTokens": "Failed to load tokens. Please try again.",
+    "swapFailed": "Swap failed. Please try again.",
+    "networkError": "Network error. Please check your connection.",
+    "retry": "Retry",
+    "themeProvider": "useTheme must be used within a ThemeProvider",
+    "invalidTheme": "Invalid theme value. Please use 'light' or 'dark'",
+    "themeStorageError": "Failed to save theme preference"
+  },
+  "common": {
+    "loading": "Loading...",
+    "loadingTokens": "Loading available tokens...",
+    "close": "Close",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "noResults": "No tokens found"
+  },
+  "language": {
+    "en": "English",
+    "vi": "Tiếng Việt"
+  },
+  "exchangeRateInfo": {
+    "rate": "Rate",
+    "priceImpact": "Price Impact",
+    "estimatedGas": "Estimated Gas"
+  },
+  "theme": {
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode"
+  }
+}
+
